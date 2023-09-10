@@ -1,0 +1,6 @@
+arduino-libraries/SD@^1.2.4
+ropg/ezTime@^0.8.3
+adafruit/RTClib@^2.1.1
+adafruit/DHT sensor library@^1.4.4
+plerup/EspSoftwareSerial@^6.16.1
+avaldebe/PMSerial@^1.2.0
